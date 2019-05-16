@@ -112,7 +112,7 @@
     "terra-menu": "^6.0.0",
     "terra-mixins": "^1.0.0",
     "terra-modal-manager": "^6.0.0",
-    "terra-navigation-layout": "^4.0.0",
+    "terra-navigation-layout": "^5.0.0",
     "terra-navigation-side-menu": "^2.0.0",
     "terra-notification-dialog": "^2.0.0",
     "terra-overlay": "^3.0.0",
