@@ -129,7 +129,7 @@
     "terra-signature": "^2.0.0",
     "terra-slide-group": "^3.0.0",
     "terra-slide-panel": "^3.0.0",
-    "terra-slide-panel-manager": "^4.0.0",
+    "terra-slide-panel-manager": "^5.0.0",
     "terra-spacer": "^3.0.0",
     "terra-status": "^4.0.0",
     "terra-status-view": "^3.0.0",
