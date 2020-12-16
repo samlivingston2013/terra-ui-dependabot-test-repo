@@ -96,7 +96,7 @@
     "terra-form-input": "^2.0.0",
     "terra-form-radio": "^3.0.0",
     "terra-form-select": "^5.0.0",
-    "terra-form-textarea": "^3.0.0",
+    "terra-form-textarea": "^5.10.0",
     "terra-grid": "^6.0.0",
     "terra-heading": "^4.0.0",
     "terra-hookshot": "^5.0.0",
