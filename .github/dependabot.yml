@@ -1,0 +1,51 @@
+version: 2
+updates:
+- package-ecosystem: npm
+  directory: "/"
+  schedule:
+    interval: daily
+  open-pull-requests-limit: 10
+  ignore:
+  - dependency-name: terra-form-input
+    versions:
+    - 4.10.0
+    - 4.11.0
+    - 4.12.0
+    - 4.13.0
+  - dependency-name: terra-form-textarea
+    versions:
+    - 5.12.0
+    - 5.13.0
+    - 5.14.0
+    - 5.15.0
+  - dependency-name: terra-theme-provider
+    versions:
+    - 4.6.0
+    - 4.7.0
+  - dependency-name: terra-table
+    versions:
+    - 4.20.0
+    - 4.21.0
+    - 4.22.0
+    - 4.23.0
+  - dependency-name: stylelint
+    versions:
+    - 13.10.0
+    - 13.11.0
+    - 13.12.0
+    - 13.9.0
+  - dependency-name: terra-responsive-element
+    versions:
+    - 5.28.0
+    - 5.29.0
+  - dependency-name: puppeteer
+    versions:
+    - 5.5.0
+    - 6.0.0
+    - 7.0.1
+    - 7.0.4
+    - 7.1.0
+    - 8.0.0
+  - dependency-name: terra-avatar
+    versions:
+    - 3.11.0
